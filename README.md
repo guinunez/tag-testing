@@ -12,3 +12,5 @@ otro agregado, post v1.0
 antes de crear tag 1.5
 
 creando v2.0 Annotated
+
+cambios para v2.5
