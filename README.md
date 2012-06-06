@@ -8,3 +8,6 @@ Cambios iniciales al principal
 Creado el tag v1.0
 
 otro agregado, post v1.0
+
+antes de crear tag 1.5
+
