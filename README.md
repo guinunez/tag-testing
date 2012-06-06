@@ -11,3 +11,4 @@ otro agregado, post v1.0
 
 antes de crear tag 1.5
 
+arreglado v2.0
